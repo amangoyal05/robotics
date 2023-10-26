@@ -11,6 +11,6 @@ We will be studying basic mathematics, physics and programming in this level.
 </ol>
 
 In Programming, we will cover Python, C and MatLab.<br>
-<ol><li>Python - <a href="https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7"></a></li>
-<li>C - <a href="https://beej.us/guide/bgc/html/#manual-memory-allocation"></a></li>
+<ol><li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7">Python programming</a></li>
+<li><a href="https://beej.us/guide/bgc/html/#manual-memory-allocation">C programming</a></li>
 <li>MatLab - </li>
