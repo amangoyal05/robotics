@@ -124,7 +124,7 @@ print(cs_courses.union(art_courses))
 
 # Empty Lists
 empty_list = []
-empty_list = list[]
+empty_list = list()
 
 # Empty Tuples
 empty_tuple = ()
