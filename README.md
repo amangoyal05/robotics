@@ -13,6 +13,6 @@ We will be studying basic mathematics, physics and programming in this level.
 </ol>
 Please leave the books you consider as necessary to study. I am covering everything from the basics, even if I have been practising them for a long time.
 In Programming, we will cover Python, C and MatLab.<br>
-<ol><li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7">Python programming</a></li>
+<ol><li><a href="https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU">Python programming</a></li>
 <li><a href="https://beej.us/guide/bgc/html/#manual-memory-allocation">C programming</a></li>
 <li>MatLab - </li>
