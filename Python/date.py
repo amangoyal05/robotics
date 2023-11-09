@@ -71,6 +71,7 @@ print(dt_myloc.isoformat())
 
 # strfttime - Datetime to string
 # strptime - String to Datetime
+# Converting date time to string
 print(dt_myloc.strftime('%B %d, %Y'))
 
 # Converting string to date time
