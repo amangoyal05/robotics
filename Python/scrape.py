@@ -46,9 +46,6 @@ soup1 = BeautifulSoup(source, 'lxml')
 titl = soup1.title.text
 print(titl)
 
-# article = soup1.find('div')
-# print(article.prettify())
-
 vid_src = soup1.find('iframe', class_ = 'absolute border-0 w-full h-full')['src']
 print(vid_src)
 
