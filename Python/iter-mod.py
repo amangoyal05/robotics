@@ -216,8 +216,5 @@ for key, group in person_group:
 
 # groupby expects the value to be sorted. In the above example, all the values are sorted according to the state.
     
-# tee is used for replicating iterators.
+# tee is used for replicating iterators. Do not use the original iterator after replicating it.
 copy1, copy2 = itertools.tee(person_group)
-
-for item in copy1:
-    print(item)
